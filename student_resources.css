@@ -1,0 +1,200 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+
+.heading {
+ font-family: "Futura";
+}
+
+#navheading {
+	background-color: #B5995B;
+}
+
+nav{
+    margin-top: -10px;
+	background-color: #B5995B;
+}
+
+.navbar{
+	background-color: #B5995B;
+}
+
+.home_headings{
+    text-align: center;
+    color: black;
+	text-transform: uppercase;
+    font-family: "Futura";
+    padding-bottom: 0px;
+    margin-bottom: -10px;
+}
+
+#thewhite{
+	color: #B5995B;
+}
+.navbar-nav{
+    background-color: #B5995B;
+    align: center;
+}
+
+#navbar{
+	background-color:#B5995B;
+}
+
+.nav-item{
+	font-size: 18px;
+	text-transform: uppercase;
+	
+}
+
+.event_img{
+	width: 100%;
+	height: auto;
+}
+
+.gold {
+	background-color:#B5995B;
+}
+
+#top{
+	width: 100%;
+	padding: 0px;
+}
+
+.nav-item{
+	font-family: "Futura";
+}
+
+h2{
+    font-family: "Futura";
+    font-size: 20px;
+	text-align: center;
+	color:#B49A5C;
+}
+
+h3{
+    font-family: "Futura";
+    text-align:center;
+}
+
+p{
+	font-family: Georgia;
+}
+
+.col-lg-4{
+    border: solid;
+    border-width: 1px;
+	border-collapse: collapse;
+}
+
+
+.side {
+    backface-visibility: hidden;
+	background: white;
+	opacity: 1;
+}
+
+.announcements{
+    background: #B5995C;
+    border: 1px solid #000000;
+}
+
+#date{
+	color: black;
+	font-size: 20px;
+}
+	
+li{
+	font-family: Georgia;
+}
+
+#this_week{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+
+table{
+    border-color: #000000;
+    border-collapse: collapse;
+}
+
+.table_r{
+	border-color: #000000;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table_clubs{
+	border-color: #000000;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+th{
+	font-family: "Futura";
+	color: white;
+	text-align: center;
+}
+
+.th_r{
+	font-family: "Georgia";
+	text-align: center;
+	color: black;
+}
+
+.th_clubs{
+	font-family: "Georgia";
+	text-align: center;
+	color: black;
+}
+
+td{
+    width: 14%;
+    vertical-align: top;
+    color: #000000;
+	font-family: Georgia;
+}
+
+.td_r{
+    vertical-align: top;
+    color: #000000;
+    font-family: Georgia;
+	font-size: 14px;
+}
+
+.td_clubs{
+	vertical-align: top;
+    color: #000000;
+    font-family: Georgia;
+    font-size: 14px;
+    padding-left: 4px;
+}
+
+#day{
+    background-color: black;
+    height: 0px;
+}
+
+a{
+	color: black;
+}
+
+#footer{
+    height: 50px;
+    background-color: #B5995C;
+}
+
